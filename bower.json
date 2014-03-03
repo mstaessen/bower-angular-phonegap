@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "main": "./angular-phonegap.min.js",
   "dependencies": {
-    "angular": "1.0.7"
+    "angular": "~1"
   }
 }
